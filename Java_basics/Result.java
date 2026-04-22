@@ -21,8 +21,6 @@ class Result{
         double percentage = (total/500.0)*100;
     
         System.out.println("percentage = " + percentage + " % ");
-
-
     }
 }
  
